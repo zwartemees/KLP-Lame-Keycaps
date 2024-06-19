@@ -61,7 +61,7 @@ There are **Combined** files for Choc and MX verstions that you can use in any 3
 
 Yes. But you must leave a mention of the original repository/author to end users.
 
-## Creddits
+## Credits
 credit to @braindefender for creating almost everything here ([original repo](https://github.com/braindefender/KLP-Lame-Keycaps))
 
 ### Original photos
