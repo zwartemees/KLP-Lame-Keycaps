@@ -1,15 +1,11 @@
 ![](./Assets/KLP_Lame_Preview_All.jpg)
 
-# KLP Lamé — Kailh Choc & MX Keycaps
+# KLP Lamé — Kailh Choc & MX Keycaps (Choc or MX spacing)
 
 The repository contains these folders:
-
 - **Fusion 360** – source files for [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/overview).
 - **STL** – 3D models for any CAD of Slicer software.
-- **Lychee** – project files for [Lychee Slicer](https://mango3d.io/). You might need to update model paths to edit files.
-- **CTB (Mars 2 Pro)** – print-ready files for [Elegoo Mars 2 Pro](https://www.elegoo.com/collections/mars-series/products/elegoo-mars-2-pro-mono-lcd-3d-printer) and Elegoo water-washable resin.
 - **Assets** – images and actual photos of keycaps.
-- **Blender** – Blender files for Preview and managing Combined versions.
 
 There are currently seven variants of keycaps:
 
@@ -23,18 +19,7 @@ There are currently seven variants of keycaps:
 
 ## What keycaps do I need for my keyboard?
 
-First, you should pick Choc or MX stem variant. Then, for keycap set there are some variants that depends entirely of your choice.
-
-For corne-like keyboards with 36-keys I use:
-
-- 20 Saddle Tilted (for top and bottom rows)
-- 16 Saddle (10 for home row + 6 for thumbs)
-
-or
-
-- 20 Normal Tilted (for top and bottom rows)
-- 10 Normal (for home row)
-- 6 Thumb
+First, you should pick Choc or MX stem with normal or choc spacing. Then, for keycap set there are some variants that depends entirely of your choice. MX with choc spacing only has homing and normal variants
 
 ## How to print?
 
@@ -72,19 +57,12 @@ There are **Combined** files for Choc and MX verstions that you can use in any 3
 
 > So, for 36 keys you'll need to order each of these files twice (two for each part of split)
 
-## Warning
-
-It's better to use original STL files instead of Lychee project files as it contains my settings for my particular printer. Use them as an example of making supports and tune them to achieve best quality for your setup.
-
 ## Can I use these models for a production and sale?
 
-Yes. But you must leave a mention of this repository/author to end users.
+Yes. But you must leave a mention of the original repository/author to end users.
 
-## Can I modify, fork, post (or whatever) these models?
-
-Yes. Rules are the same. Give a credit to the author.
-
-## Images & Photos
+## Creddits
+credit to @braindefender for creating almost everything here ([original repo](https://github.com/braindefender/KLP-Lame-Keycaps))
 
 ### Original photos
 
@@ -103,8 +81,3 @@ By [Grigoriy](https://t.me/grygree) from [Telegram/KlavaOrgWork](t.me/klavaorgwo
 ![](./Assets/photo_2023-09-01_20-00-30.jpg)
 By Sergei Murzin from [Telegram/Rafworks](https://t.me/rafworks)
 </details>
-
-
-## Contacts
-
-@braindefender almost anywhere
